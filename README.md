@@ -1,7 +1,9 @@
 ### Hi there, I'm Elena 👋
 
 🔭 I’m M.S. student in Data Analytics
+
 ⚡ I’m currently working on projects, related to web-scraping
+
 My stack: Python, SQL, Tableau, PostgreSQL
 
 <!--
