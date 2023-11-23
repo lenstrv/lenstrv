@@ -1,8 +1,8 @@
 ### Hi there, I'm Elena 👋
 
-- 🔭 I’m M.S. student in Data Analytics
--  ⚡ I’m currently working on projects, related to web-scraping
--  💬 Python, SQL, Tableau, PostgreSQL
+🔭 I’m M.S. student in Data Analytics
+⚡ I’m currently working on projects, related to web-scraping
+My stack: Python, SQL, Tableau, PostgreSQL
 
 <!--
 **lenstrv/lenstrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
