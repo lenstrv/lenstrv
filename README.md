@@ -4,6 +4,8 @@
 
 ⚡ I’m currently working on projects, related to web-scraping
 
+🌱 trying to evolve into Data Engineering role
+
 My stack: Python, SQL, Tableau, PostgreSQL
 
 <!--
