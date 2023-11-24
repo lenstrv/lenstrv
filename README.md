@@ -1,6 +1,6 @@
 ### Hi there, I'm Elena 👋
 
-🔭 I’m M.S. student in Data Analytics
+🔭 M.S. student in Data Analytics
 
 ⚡ I’m currently working on projects, related to web-scraping
 
