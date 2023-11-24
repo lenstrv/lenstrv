@@ -8,7 +8,7 @@
 
 My stack: Python, SQL, Tableau, PostgreSQL
 
-📍 Russia
+📍 Komi Republic, Russia 
 
 <!--
 **lenstrv/lenstrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
