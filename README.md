@@ -6,7 +6,9 @@
 
 🌱 trying to evolve into Data Engineering role
 
+
 My stack: Python, SQL, Tableau, PostgreSQL
+
 
 📍 Komi Republic, Russia 
 
