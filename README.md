@@ -4,7 +4,7 @@
 
 ⚡ I’m currently working on projects, related to web-scraping
 
-🌱 when i ✨grow up✨ i will be Product Analyst/Data Analyst in BigTech 
+🌱 when i grow up i will be Product Analyst/Data Analyst in BigTech 
 
 
 My stack: Python, SQL, Tableau, PostgreSQL
