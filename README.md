@@ -2,9 +2,7 @@
 
 🔭 M.S. student in Data Analytics
 
-⚡ I’m currently working on projects, related to web-scraping
-
-🌱 when i grow up i will be Product Analyst/Data Analyst in BigTech 
+⚡ I’m currently working on projects, related to web-scraping and API integrations. 
 
 
 My stack: Python, SQL, Tableau, PostgreSQL
