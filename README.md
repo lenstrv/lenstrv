@@ -1,9 +1,11 @@
 ### Hi there, I'm Elena 👋
 
 🔭 M.S. student in Data Analytics
+<!--
+⚡ I’m currently working in Product companies
+-->
 
-⚡ I’m currently working on projects, related to web-scraping and API integrations. 
-
+⚡ My experience: projects, related to web-scraping and API integrations. 
 
 My stack: Python, SQL, Tableau, PostgreSQL
 
