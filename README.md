@@ -11,6 +11,7 @@ My stack: Python, SQL, Tableau, PostgreSQL
 
 ---
 📍 Komi Republic, Russia 
+
 Telegram: @lenanstrv
 
 <!--
